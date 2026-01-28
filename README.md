@@ -4,10 +4,10 @@ This repository contains the data supporting the findings described in the resea
 
 
 # License for Code
-All software and scripts in this repository are licensed under the MIT License.
+All software and scripts in this repository are licensed under the **MIT License**.
 Full license text: https://opensource.org/licenses/MIT
 
 # License for Data
 All datasets, figures, and other non-code materials are licensed under
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
+Creative Commons Attribution-NonCommercial 4.0 International (**CC BY-NC 4.0**).
 Full license text: https://creativecommons.org/licenses/by-nc/4.0/
